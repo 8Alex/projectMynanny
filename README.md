@@ -1,15 +1,10 @@
-# Сайт для поиска няни
+# Сайт "Няни особого назначения"
+![myNannyGif](https://user-images.githubusercontent.com/91260590/175368332-67e1fb84-6972-454b-aa9e-76fc7fc4a80a.gif)
 
-В проекте реализована адаптивная валидная верстка сайта с формой отправки заявки.
+GitHub Pages: [Mynanny](https://mrglk.github.io/projectMynanny/)
+#### Используемые технологии:
++ JavaScript(форма)
++ SCSS
++ HTML5/CSS3
++ Адаптивная верстка
 
-![myNanny1080 (1)](https://user-images.githubusercontent.com/91153046/175291862-f44756e7-b2c4-4697-b0de-d17622215654.gif)
-
-### Демо
-
-https://mrglk.github.io/projectMynanny/index.html
-
-### Используемые технологии
-
-* HTML5/СSS3
-* SAAS
-* JavaScript (форма)
